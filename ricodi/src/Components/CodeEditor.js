@@ -24,7 +24,7 @@ const CodeEditor = () => {
     return ( 
        <AceEditor
         height="70vh"
-        width="102.6%"
+        width="100%"
         fontSize="1rem"
         mode="python"
         theme="terminal"

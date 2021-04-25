@@ -9,8 +9,7 @@ const RunTerminal = (props) => {
     return (
 
         <Terminal
-        height="10px"
-        width="100%"
+          allowTabs={false}
           color='green'
           backgroundColor='black'
           barColor='green'
