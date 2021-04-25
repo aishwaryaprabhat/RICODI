@@ -67,8 +67,8 @@ body {
 
 
 .Terminal{
-  height: 20vh;
-  width: 100vw;
+  height: 30vh;
+  width: 100%;
   overflow-x: hidden;
   overflow-y: hidden;
 }

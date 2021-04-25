@@ -5,6 +5,7 @@ import RunTerminal from "./Components/Terminal"
 import Row from 'react-bootstrap/Row'
 import { Button, Col, Navbar } from 'react-bootstrap';
 import FontAwesomeIcon from 'react-fontawesome';
+import MenuBar from './Components/MenuBar'
 // import '../node_modules/font-awesome/css/font-awesome.min.css'
 
 
@@ -12,7 +13,8 @@ import FontAwesomeIcon from 'react-fontawesome';
 function App() {
     return ( 
         <div>
-            {/* <Row><Navbar bg="dark" expand="lg"></Navbar></Row> */}
+            <MenuBar></MenuBar>
+            <div></div>
             <Row>
                 <Col sm={8}><CodeEditor /></Col>
                 <Col sm={4}>
