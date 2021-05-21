@@ -1,5 +1,5 @@
 # [RICODI](https://ricodi.herokuapp.com/)
-Remote Interview CODing Interface: InterfaceA prototype for an online coding interview interface (for CS6250 HCI)
+Remote Interview CODing Interface: Interface prototype for an online coding interview interface (for CS6250 HCI)
 https://ricodi.herokuapp.com/ 
 
 ## About
